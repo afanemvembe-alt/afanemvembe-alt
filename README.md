@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Compétences techniques
+##  Compétences techniques
 
 * **Langages :** Java, PHP, Python (Flask), C, SQL, JavaScript, HTML/CSS.
 * **Architectures & Paradigmes :** Programmation Orientée Objet (POO), Architecture Modèle-Vue-Contrôleur (MVC), Design Patterns, Modélisation UML.
