@@ -1,8 +1,8 @@
 <div align="center">
-  <!-- Bannière d'accueil dynamique et professionnelle -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=200&section=header&text=%F0%9F%90%B1%E2%80%8D%F0%9F%90%B2%20Bienvenue%20!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <!-- Bannière d'accueil (sans emojis) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=200&section=header&text=Bienvenue%20!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h1> Moi c'est Nicole Manuella Afane Mvembe </h1>
+  <h1>Moi c'est Nicole Manuella Afane Mvembe</h1>
   <p><i>Conception de logiciels performants & architecture de pipelines de données</i></p>
 
   <!-- Animation SVG de présentation -->
@@ -59,7 +59,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=afanemvembe-alt&theme=flat&no-frame=true&column=4" alt="GitHub Trophies" />
+  <!-- Lien optimisé pour ne cacher les trophées sans points -->
+  <img src="https://github-profile-trophies.vercel.app/?username=afanemvembe-alt&theme=flat&no-frame=true&column=4&rank=C,B,A,S,SS,SSS" alt="GitHub Trophies" />
 </p>
 
 ---
