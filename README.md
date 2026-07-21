@@ -1,6 +1,7 @@
-# Hi, I'm Nicole Manuella 👋
+# 👋 Bienvenue sur mon profil GitHub !
+### Moi c'est **Nicole Manuella Afane Mvembe** 🚀
 
-Building efficient software & data pipelines, one idea at a time 🚀
+> *Conception de logiciels performants & architecture de pipelines de données.*
 
 <div align="center">
   <!-- Animation SVG de présentation -->
@@ -46,15 +47,6 @@ Building efficient software & data pipelines, one idea at a time 🚀
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=afanemvembe-alt&theme=flat&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=afanemvembe-alt&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afanemvembe-alt&layout=compact&theme=default&hide_border=true&hide=html,css" />
 </p>
 
 ---
