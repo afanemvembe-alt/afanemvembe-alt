@@ -1,16 +1,19 @@
-# 👋 Bienvenue sur mon profil GitHub !
-### Moi c'est **Nicole Manuella Afane Mvembe** 🚀
-
-> *Conception de logiciels performants & architecture de pipelines de données.*
-
 <div align="center">
+  <!-- Bannière d'accueil dynamique et professionnelle -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=200&section=header&text=%F0%9F%90%B1%E2%80%8D%F0%9F%90%B2%20Bienvenue%20!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+  <h1>👋 Moi c'est Nicole Manuella Afane Mvembe 🚀</h1>
+  <p><i>Conception de logiciels performants & architecture de pipelines de données</i></p>
+
   <!-- Animation SVG de présentation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=L3+Informatique+%40+Universit%C3%A9+de+Caen;Deep-diving+into+Data+Engineering+%26+IA;Looking+for+a+3-Month+Stage+(2027);Looking+for+a+Master+Apprenticeship+(2027-2028)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=L3+Informatique+%40+Universit%C3%A9+de+Caen;Data+Engineering+%26+Intelligence+Artificielle;Stage+3+Mois+(2027)+%2B+Alternance+Master+(2027-2028)" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
+
+---
 
 ### 🎯 Opportunités recherchées (2027)
 
@@ -28,10 +31,20 @@
   * 🇫🇷 **Français :** Langue maternelle
   * 🇬🇧 **Anglais :** Courant *(B2/C1 — Capable de travailler et documenter du code en anglais)*
 
-**Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20Manuella%20Afane%20Mvembe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-manuella-afane-mvembe)
-[![Email](https://img.shields.io/badge/Email-afanemvembe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:afanemvembe@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-afanemvembe--alt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/afanemvembe-alt)
+<br/>
+
+<div align="center">
+  <b>Connect with me:</b><br/><br/>
+  <a href="https://www.linkedin.com/in/nicole-manuella-afane-mvembe">
+    <img src="https://img.shields.io/badge/LinkedIn-Nicole%20Manuella%20Afane%20Mvembe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:afanemvembe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-afanemvembe%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/afanemvembe-alt">
+    <img src="https://img.shields.io/badge/GitHub-afanemvembe--alt-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
