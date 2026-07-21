@@ -2,7 +2,7 @@
   <!-- Bannière d'accueil dynamique et professionnelle -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4D8&height=200&section=header&text=%F0%9F%90%B1%E2%80%8D%F0%9F%90%B2%20Bienvenue%20!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h1>👋 Moi c'est Nicole Manuella Afane Mvembe 🚀</h1>
+  <h1> Moi c'est Nicole Manuella Afane Mvembe </h1>
   <p><i>Conception de logiciels performants & architecture de pipelines de données</i></p>
 
   <!-- Animation SVG de présentation -->
